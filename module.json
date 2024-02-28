@@ -1,0 +1,26 @@
+{
+  "id": "brrt",
+  "title": "Brrt!",
+  "description": "A text-to-speech-to-text module for FVTT, powered by AWS Polly",
+  "version": "This is auto replaced",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "11.315"
+  },
+  "authors": [
+    {
+      "name": "Justin Bozalina",
+      "discord": "bozalina",
+      "flags": {}
+    }
+  ],
+  "esmodules": [
+    "scripts/module.js"
+  ],
+  "scripts": [
+    "https://sdk.amazonaws.com/js/aws-sdk-2.1565.0.min.js"
+  ],
+  "url": "This is auto replaced",
+  "manifest": "This is auto replaced",
+  "download": "This is auto replaced"
+}
