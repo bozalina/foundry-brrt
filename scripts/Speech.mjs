@@ -1,5 +1,3 @@
-import AWS from "aws-sdk"
-
 export default class Speech {
     constructor() {
         this.polly = new AWS.Polly({ apiVersion: '2016-06-10' });

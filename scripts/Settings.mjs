@@ -1,5 +1,3 @@
-import AWS from "aws-sdk"
-
 export default class Settings {
     static async registerSettings() {
         game.settings.register('brrt', 'identitypoolid', {
